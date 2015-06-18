@@ -2,7 +2,7 @@
 
 session_start();
 
-//Recupero variables nugskdnhls
+//Recupero variables nugskdnhls sjrgnlekrnhlerk
 
 $usuario = $_SESSION['usuario'];
 $contrasena = $_SESSION['contrasena'];
